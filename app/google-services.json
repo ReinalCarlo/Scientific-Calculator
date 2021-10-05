@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "170561747607",
+    "firebase_url": "https://scientific-calculator-8a9ba.firebaseio.com",
+    "project_id": "scientific-calculator-8a9ba",
+    "storage_bucket": "scientific-calculator-8a9ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170561747607:android:491299f4cf35358ffa87d2",
+        "android_client_info": {
+          "package_name": "com.midmax.calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170561747607-p2mu5g4aj0ha6b3207juf3dqcssja12u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6W70rhgeGDjLhUmq6vVtWIDPMNTUdwHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170561747607-p2mu5g4aj0ha6b3207juf3dqcssja12u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
